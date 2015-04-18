@@ -3,4 +3,4 @@ Facelift Image Replacement (or FLIR, pronounced fleer) is an image replacement s
 
 ===
 
-I obviously never uploaded the code and have since lost it.  Luckily, someone else was nice enough to archive it here: https://github.com/amclin/facelift
+Update: I obviously never uploaded the code and have since lost it.  Luckily, someone else was nice enough to archive it here: https://github.com/amclin/facelift
